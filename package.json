@@ -1,0 +1,20 @@
+{
+  "name": "middleware-lecture",
+  "version": "1.0.0",
+  "description": "mid lect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon"
+  },
+  "author": "sgear",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "helmet": "^3.15.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.9.1",
+    "nodemon": "^1.18.6"
+  }
+}
